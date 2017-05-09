@@ -3,9 +3,9 @@
 ## 1. [GitHub](https://github.com/magicmai?tab=repositories)
 
 - [FreeCodeCamp-Projects完整代码]()
-- [响应式博客demo](https://github.com/magicmai/a-simple-responsive-blog)
-- [电商网站demo]()
 - [新闻网站demo]()
+- [电商网站demo]()
+- [响应式博客demo](https://github.com/magicmai/a-simple-responsive-blog)
 - [Jay Skript and the DOMSTEAR]()
 
 ## 2. [FreeCodeCamp编码作品集](https://www.freecodecamp.cn/magicmai)
@@ -32,4 +32,4 @@ Projects、算法和挑战共352个。其中Projects如下：
 
 
 ---
-**最后，谢谢您的来访！**
+## 最后，谢谢您的来访！
