@@ -3,9 +3,9 @@
 ## 1. [GitHub](https://github.com/magicmai?tab=repositories)
 
 - [FreeCodeCamp-Projects完整代码]()
-- [新闻网站demo]()
-- [电商网站demo]()
-- [响应式博客demo](https://github.com/magicmai/a-simple-responsive-blog)
+- [新闻网站Demo]()
+- [电商网站Demo]()
+- [响应式博客Demo](https://github.com/magicmai/a-simple-responsive-blog)
 - [Jay Skript and the DOMSTEAR]()
 
 ## 2. [FreeCodeCamp编码作品集](https://www.freecodecamp.cn/magicmai)
