@@ -30,6 +30,4 @@ Projects、算法和挑战共355个。其中Projects如下：
 
 ## [博客园](http://www.cnblogs.com/magicmai/)
 
-
----
 ## 谢谢您的到访！
