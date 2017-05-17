@@ -3,7 +3,7 @@
 ## 1. [GitHub](https://github.com/magicmai?tab=repositories)
 
 - [FreeCodeCamp-Projects完整代码](https://github.com/magicmai/FreeCodeCamp-Projects)
-* 包含以下第2点中11个Projects代码，同时托管在codePen中可即时浏览效果。
+包含以下第2点中11个Projects代码，同时托管在codePen中可即时浏览效果。
 - [Jay Skript and the DOMSTEAR](https://github.com/magicmai/Jay-Skript-and-the-DOMSTEAR)
 - [新闻网站Demo](https://github.com/magicmai/News-Website)
 - [购物网站Demo](https://github.com/magicmai/A-Shopping-Website)
