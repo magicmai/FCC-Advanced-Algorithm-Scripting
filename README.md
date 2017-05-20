@@ -5,9 +5,9 @@
 - [FreeCodeCamp-Projects完整代码:](https://github.com/magicmai/FreeCodeCamp-Projects)
 包含以下第2点中11个Projects代码，同时托管在codePen中可即时浏览效果。
 - [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
-- [新闻网站demo](https://github.com/magicmai/News-Website)
-- [购物网站demo](https://github.com/magicmai/A-Shopping-Website)
-- [响应式博客demo](https://github.com/magicmai/a-simple-responsive-blog)
+- [新闻网站demo](https://github.com/magicmai/demos/tree/master/News-Website)
+- [购物网站demo](https://github.com/magicmai/demos/tree/master/A-Shopping-Website)
+- [响应式博客demo](https://github.com/magicmai/demos/tree/master/a-simple-responsive-blog)
 
 ## 2. [FreeCodeCamp编码作品集](https://www.freecodecamp.cn/magicmai)
 
@@ -26,6 +26,8 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 - [11-a Simon Game](https://codepen.io/magicmai/pen/WjXbdR)
 
 ## 3. [codePen](https://codepen.io/magicmai/pens/popular/)
+
+FreeCodeCamp Projects & 日常练习。
 
 # 个人博客：
 
