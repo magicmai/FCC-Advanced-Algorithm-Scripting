@@ -17,7 +17,7 @@
 - [gallery-by-React](https://github.com/magicmai/gallery-by-React)
   - [预览](https://magicmai.github.io/gallery-by-React/)
 
-## 2. [FreeCodeCamp编码作品集](https://www.freecodecamp.cn/magicmai)
+## 2. [FreeCodeCamp 作品集](https://www.freecodecamp.cn/magicmai)
 
 Projects、算法和挑战共355个。其中Projects如下（托管在codePen）：
 
