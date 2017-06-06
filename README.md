@@ -8,11 +8,11 @@
 - [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
   - [预览](http://www.tonony1984.cn/)
   
-- [新闻网站](https://github.com/magicmai/demos/tree/master/News-Website)
+- [新闻网站]()
 
-- [购物网站](https://github.com/magicmai/demos/tree/master/A-Shopping-Website)
+- [电商网站]()
 
-- [响应式博客](https://github.com/magicmai/demos/tree/master/a-simple-responsive-blog)
+- [响应式博客]()
 
 - [gallery-by-React](https://github.com/magicmai/gallery-by-React)
   - [预览](https://magicmai.github.io/gallery-by-React/)
