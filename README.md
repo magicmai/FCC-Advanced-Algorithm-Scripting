@@ -40,3 +40,5 @@ FreeCodeCamp Projects & 日常练习的代码托管。
 # 个人博客：
 
 #### 1. [博客园](http://www.cnblogs.com/magicmai/)
+
+#### 2. [github-blog](https://github.com/magicmai/blog)
