@@ -2,16 +2,16 @@
 
 ## 1. [GitHub](https://github.com/magicmai?tab=repositories)
 
-- [FreeCodeCamp-Projects完整代码:](https://github.com/magicmai/FreeCodeCamp-Projects)
+[FreeCodeCamp-Projects完整代码:](https://github.com/magicmai/FreeCodeCamp-Projects)
 包含以下第2点中11个Projects代码，同时托管在codePen中可即时浏览效果。
-- [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
-  - [预览](http://www.tonony1984.cn/)
+[Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
+- [预览](http://www.tonony1984.cn/)
   
-- [新闻网站](https://github.com/magicmai/demos/tree/master/News-Website)
-- [购物网站](https://github.com/magicmai/demos/tree/master/A-Shopping-Website)
-- [响应式博客](https://github.com/magicmai/demos/tree/master/a-simple-responsive-blog)
-- [gallery-by-React](https://github.com/magicmai/gallery-by-React)
-  - [预览](https://magicmai.github.io/gallery-by-React/)
+[新闻网站](https://github.com/magicmai/demos/tree/master/News-Website)
+[购物网站](https://github.com/magicmai/demos/tree/master/A-Shopping-Website)
+[响应式博客](https://github.com/magicmai/demos/tree/master/a-simple-responsive-blog)
+[gallery-by-React](https://github.com/magicmai/gallery-by-React)
+- [预览](https://magicmai.github.io/gallery-by-React/)
 
 ## 2. [FreeCodeCamp编码作品集](https://www.freecodecamp.cn/magicmai)
 
