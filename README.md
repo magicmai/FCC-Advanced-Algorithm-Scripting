@@ -2,8 +2,9 @@
 
 ## 1. [GitHub](https://github.com/magicmai?tab=repositories)
 
-[FreeCodeCamp-Projects完整代码:](https://github.com/magicmai/FreeCodeCamp-Projects)
+[FreeCodeCamp-Projects完整代码：](https://github.com/magicmai/FreeCodeCamp-Projects)
 包含以下第2点中11个Projects代码，同时托管在codePen中可即时浏览效果。
+
 [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
 - [预览](http://www.tonony1984.cn/)
   
