@@ -7,7 +7,7 @@ FreeCodeCamp Projects & 日常练习的代码托管。
 ## 2. [GitHub](https://github.com/magicmai?tab=repositories)
 
 - [FreeCodeCamp-Projects完整代码：](https://github.com/magicmai/FreeCodeCamp-Projects)
-  - 为以下第3点的代码仓库，同时托管在codePen中可即时浏览效果。
+为以下第3点的代码仓库，同时托管在codePen中可即时浏览效果。
 
 - [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
   - [预览](http://www.tonony1984.cn/)
