@@ -9,8 +9,7 @@ FreeCodeCamp Projects & 代码托管。
 - [FreeCodeCamp-Projects完整代码：](https://github.com/magicmai/FreeCodeCamp-Projects)
 为以下第3点的代码仓库，同时托管在codePen中可即时浏览效果。
 
-- [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
-  - [预览](http://www.tonony1984.cn/)
+- [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters) - [【预览】](http://www.tonony1984.cn/)
   
 - [新闻网站](https://github.com/magicmai/myDemos/tree/master/%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99)
 
@@ -19,8 +18,7 @@ FreeCodeCamp Projects & 代码托管。
 - [响应式博客](https://github.com/magicmai/myDemos/tree/master/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8D%9A%E5%AE%A2)
 
 **React项目:** 
-- [gallery-by-React](https://github.com/magicmai/gallery-by-React)
-  - [预览](https://magicmai.github.io/gallery-by-React/)
+- [gallery-by-React](https://github.com/magicmai/gallery-by-React) - [【预览】](https://magicmai.github.io/gallery-by-React/)
   
 - [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)
 
@@ -41,6 +39,8 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 - [9-a Pomodoro Clock](https://codepen.io/magicmai/pen/YVNxre)
 - [10-a Tic Tac Toe Game](https://codepen.io/magicmai/pen/LyOEOq)
 - [11-a Simon Game](https://codepen.io/magicmai/pen/WjXbdR)
+
+
 
 # 个人博客：
 
