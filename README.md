@@ -2,7 +2,7 @@
 
 ## 1. [codePen](https://codepen.io/magicmai/pens/popular/)
 
-FreeCodeCamp Projects & 日常练习的代码托管。
+FreeCodeCamp Projects & 代码托管。
 
 ## 2. [GitHub](https://github.com/magicmai?tab=repositories)
 
@@ -11,15 +11,18 @@ FreeCodeCamp Projects & 日常练习的代码托管。
 
 - [Jay Skript and the Domsters](https://github.com/magicmai/Jay-Skript-And-The-Domsters)
   - [预览](http://www.tonony1984.cn/)
-  
-- [gallery-by-React](https://github.com/magicmai/gallery-by-React)
-  - [预览](https://magicmai.github.io/gallery-by-React/)
   
 - [新闻网站](https://github.com/magicmai/myDemos/tree/master/%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99)
 
 - [电商网站](https://github.com/magicmai/myDemos/tree/master/%E7%94%B5%E5%95%86%E7%BD%91%E7%AB%99)
 
 - [响应式博客](https://github.com/magicmai/myDemos/tree/master/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8D%9A%E5%AE%A2)
+
+**React项目:** 
+- [gallery-by-React](https://github.com/magicmai/gallery-by-React)
+  - [预览](https://magicmai.github.io/gallery-by-React/)
+  
+- [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)
 
 
 
