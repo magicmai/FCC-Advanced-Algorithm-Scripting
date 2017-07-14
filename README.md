@@ -8,9 +8,9 @@ FreeCodeCamp Projects & 代码托管。
 
 Projects、算法和挑战共355个。其中Projects如下（托管在codePen）：
 
-- [1-a Tribute Page](https://codepen.io/magicmai/pen/peLOpZ)
-- [2-my Portfolio Webpage](https://codepen.io/magicmai/pen/ZeVdgV)
-- [3-a Danmu App](https://codepen.io/magicmai/pen/YZLxay)
+- [1-a Tribute Page - 一个致敬页](https://codepen.io/magicmai/pen/peLOpZ)（#html5）
+- [2-my Portfolio Webpage - 我的个人网页](https://codepen.io/magicmai/pen/ZeVdgV)
+- [3-a Danmu App - 一个弹幕App](https://codepen.io/magicmai/pen/YZLxay)
 - [4-a Random Quote Machine](https://codepen.io/magicmai/pen/oWgOvb)
 - [5-Show the Local Weather](https://codepen.io/magicmai/pen/EmKRJK)
 - [6-a Wikipedia Viewer](https://codepen.io/magicmai/pen/PmzaRK?editors=1000)
