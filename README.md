@@ -8,17 +8,17 @@ FreeCodeCamp Projects & 代码托管。
 
 Projects、算法和挑战共355个。其中Projects如下（托管在codePen）：
 
-- [1-a Tribute Page - 一个致敬页](https://codepen.io/magicmai/pen/peLOpZ)（#html5）
-- [2-my Portfolio Webpage - 我的个人网页](https://codepen.io/magicmai/pen/ZeVdgV)（#html5）
-- [3-a Danmu App - 一个弹幕App](https://codepen.io/magicmai/pen/YZLxay)（#html5）
-- [4-a Random Quote Machine - 随机名言生成器](https://codepen.io/magicmai/pen/oWgOvb)（#html5）
-- [5-Show the Local Weather  显示当地天气](https://codepen.io/magicmai/pen/EmKRJK)（#html5）
-- [6-a Wikipedia Viewer - 维基百科搜索](https://codepen.io/magicmai/pen/PmzaRK?editors=1000)（#html5）
-- [7-Use the Twitchtv JSON API - 使用Twitchtv显示部分用户在线情况](https://codepen.io/magicmai/pen/gWwPyp?editors=0100)（#html5）
-- [8-a JavaScript Calculator - 一个简易的JavaScript计算器](https://codepen.io/magicmai/pen/dWNzdJ?editors=0100)（#html5）
-- [9-a Pomodoro Clock - 一个番茄时App](https://codepen.io/magicmai/pen/YVNxre)（#html5）
-- [10-a Tic Tac Toe Game - Tic Tac Toe游戏](https://codepen.io/magicmai/pen/LyOEOq)（#html5）
-- [11-a Simon Game - 西蒙游戏](https://codepen.io/magicmai/pen/WjXbdR)（#html5）
+- [1- a Tribute Page - 一个致敬页](https://codepen.io/magicmai/pen/peLOpZ)（#html5）
+- [2- my Portfolio Webpage - 我的个人网页](https://codepen.io/magicmai/pen/ZeVdgV)（#html5）
+- [3- a Danmu App - 一个弹幕App](https://codepen.io/magicmai/pen/YZLxay)（#html5）
+- [4- a Random Quote Machine - 随机名言生成器](https://codepen.io/magicmai/pen/oWgOvb)（#html5）
+- [5- Show the Local Weather  显示当地天气](https://codepen.io/magicmai/pen/EmKRJK)（#html5）
+- [6- a Wikipedia Viewer - 维基百科搜索](https://codepen.io/magicmai/pen/PmzaRK?editors=1000)（#html5）
+- [7- Use the Twitchtv JSON API - 使用Twitchtv显示部分用户在线情况](https://codepen.io/magicmai/pen/gWwPyp?editors=0100)（#html5）
+- [8- a JavaScript Calculator - 一个简易的JavaScript计算器](https://codepen.io/magicmai/pen/dWNzdJ?editors=0100)（#html5）
+- [9- a Pomodoro Clock - 一个番茄时App](https://codepen.io/magicmai/pen/YVNxre)（#html5）
+- [10- a Tic Tac Toe Game - Tic Tac Toe游戏](https://codepen.io/magicmai/pen/LyOEOq)（#html5）
+- [11- a Simon Game - 西蒙游戏](https://codepen.io/magicmai/pen/WjXbdR)（#html5）
 
 ## 3. [GitHub](https://github.com/magicmai?tab=repositories)
 
