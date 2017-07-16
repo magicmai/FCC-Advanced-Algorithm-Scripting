@@ -8,8 +8,8 @@ FreeCodeCamp Projects & 代码托管。
 
 Projects、算法和挑战共355个。其中Projects如下（托管在codePen）：
 
-- [1- a Tribute Page - 一个致敬页](https://codepen.io/magicmai/pen/peLOpZ)（#html5）
-- [2- my Portfolio Webpage - 我的个人网页](https://codepen.io/magicmai/pen/ZeVdgV)（#html5）
+- [1- a Tribute Page - 一个致敬页](https://codepen.io/magicmai/pen/peLOpZ) 【#html、#bootstrap】
+- [2- my Portfolio Webpage - 我的个人网页](https://codepen.io/magicmai/pen/ZeVdgV)（#html、#normalize #font-awesome）
 - [3- a Danmu App - 一个弹幕App](https://codepen.io/magicmai/pen/YZLxay)（#html5）
 - [4- a Random Quote Machine - 随机名言生成器](https://codepen.io/magicmai/pen/oWgOvb)（#html5）
 - [5- Show the Local Weather  显示当地天气](https://codepen.io/magicmai/pen/EmKRJK)（#html5）
