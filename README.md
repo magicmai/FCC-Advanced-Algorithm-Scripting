@@ -35,7 +35,7 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 **React项目:** 
 - [gallery-by-React](https://github.com/magicmai/gallery-by-React) - [【预览】](https://magicmai.github.io/gallery-by-React/)【react + webpack】
   
-- [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react)【react】
+- [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react) - [【预览】](https://codepen.io/magicmai/pen/YQxzrq?editors=0010) 【react】
 
 
 # 个人博客：
