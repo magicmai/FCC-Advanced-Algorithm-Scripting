@@ -28,9 +28,9 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
   
 - [新闻网站](https://github.com/magicmai/myDemos/tree/master/%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99)【bootstrap】
 
-- [电商网站布局](https://github.com/magicmai/myDemos/tree/master/%E7%94%B5%E5%95%86%E7%BD%91%E7%AB%99)【HTML + CSS】
-
 - [响应式博客](https://github.com/magicmai/myDemos/tree/master/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8D%9A%E5%AE%A2)【HTML + CSS】
+
+- [电商网站布局](https://github.com/magicmai/myDemos/tree/master/%E7%94%B5%E5%95%86%E7%BD%91%E7%AB%99)【HTML + CSS】
 
 **React项目:** 
 - [gallery-by-React](https://github.com/magicmai/gallery-by-React) - [【预览】](https://magicmai.github.io/gallery-by-React/)【react + webpack】
