@@ -15,16 +15,16 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 - [5- Show the Local Weather  显示当地天气](https://codepen.io/magicmai/pen/EmKRJK)【bootstrap + jQuery】
 - [6- a Wikipedia Viewer - 维基百科阅读器](https://codepen.io/magicmai/pen/PmzaRK?editors=1000)【jQuery + font-awesome】
 - [7- Use the Twitchtv JSON API - 显示Twitchtv用户在线情况的应用](https://codepen.io/magicmai/pen/gWwPyp?editors=0100)【bootstrap + jQuery】
-- [8- a JavaScript Calculator - 一个简易的JavaScript计算器](https://codepen.io/magicmai/pen/dWNzdJ?editors=0100)【原生JavaScript实现】
-- [9- a Pomodoro Clock - 一个番茄时钟App](https://codepen.io/magicmai/pen/YVNxre)【原生JavaScript实现】
-- [10- a Tic Tac Toe Game - 井字游戏](https://codepen.io/magicmai/pen/LyOEOq)【原生JavaScript实现】
+- [8- a JavaScript Calculator - 一个简易的JavaScript计算器](https://codepen.io/magicmai/pen/dWNzdJ?editors=0100)【原生JavaScript】
+- [9- a Pomodoro Clock - 一个番茄时钟App](https://codepen.io/magicmai/pen/YVNxre)【原生JavaScript】
+- [10- a Tic Tac Toe Game - 井字游戏](https://codepen.io/magicmai/pen/LyOEOq)【原生JavaScript】
 - [11- a Simon Game - 经典西蒙游戏](https://codepen.io/magicmai/pen/WjXbdR)【jQuery】
 
 ## 3. [GitHub](https://github.com/magicmai?tab=repositories)
 
 - [FreeCodeCamp-Projects 完整代码](https://github.com/magicmai/FreeCodeCamp-Projects)
 
-- [Jay Skript and the Domsters - 虚拟乐队网站](https://github.com/magicmai/Jay-Skript-And-The-Domsters) - [【预览】](https://magicmai.github.io/Jay-Skript-And-The-Domsters/)【原生JavaScript实现】
+- [Jay Skript and the Domsters - 虚拟乐队网站](https://github.com/magicmai/Jay-Skript-And-The-Domsters) - [【预览】](https://magicmai.github.io/Jay-Skript-And-The-Domsters/)【原生JavaScript】
   
 - [新闻网站](https://github.com/magicmai/myDemos/tree/master/%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99)【bootstrap】
 
