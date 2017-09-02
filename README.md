@@ -34,9 +34,14 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 
 ## 3. [GitHub](https://github.com/magicmai?tab=repositories)
 
+**React项目:** 
 - [FreeCodeCamp-Projects 完整代码](https://github.com/magicmai/FreeCodeCamp-Projects)
 
 - [Jay Skript and the Domsters - 虚拟乐队网站](https://github.com/magicmai/Jay-Skript-And-The-Domsters) - [【预览】](https://magicmai.github.io/Jay-Skript-And-The-Domsters/)【原生JavaScript】
+
+- [Looks-Like-imooc - 仿慕课网](https://github.com/magicmai/Looks-Like-imooc) - [【预览】](https://magicmai.github.io/Looks-Like-imooc/) 【HTML + CSS】
+
+- [dictionary-by-jQuery - jQuery实现小词典](https://github.com/magicmai/dictionary-by-jQuery) - [【预览】](https://magicmai.github.io/dictionary-by-jQuery/) 【HTML + CSS + jQuery】
   
 - [新闻网站](https://github.com/magicmai/myDemos/tree/master/%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99)【bootstrap】
 
@@ -45,9 +50,10 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 - [电商网站布局](https://github.com/magicmai/myDemos/tree/master/%E7%94%B5%E5%95%86%E7%BD%91%E7%AB%99)【HTML + CSS】
 
 **React项目:** 
-- [gallery-by-React](https://github.com/magicmai/gallery-by-React) - [【预览】](https://magicmai.github.io/gallery-by-React/)【react + webpack】
+- [react-music-player - react实现的音乐播放器](https://github.com/magicmai/react-music-player) 【react + pubsub + jplayer + webpack】
+- [gallery-by-React - react实现的画廊](https://github.com/magicmai/gallery-by-React) - [【预览】](https://magicmai.github.io/gallery-by-React/)【react + webpack】
   
-- [tic-tac-toe-by-react](https://github.com/magicmai/tic-tac-toe-by-react) - [【预览】](https://codepen.io/magicmai/pen/YQxzrq?editors=0010) 【react】
+- [tic-tac-toe-by-react - react实现的井字游戏](https://github.com/magicmai/tic-tac-toe-by-react) - [【预览】](https://codepen.io/magicmai/pen/YQxzrq?editors=0010) 【react】
 
 
 # 个人博客：
