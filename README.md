@@ -34,7 +34,7 @@ Projects、算法和挑战共355个。其中Projects如下（托管在codePen）
 
 ## 3. [GitHub](https://github.com/magicmai?tab=repositories)
 
-**React项目:** 
+**实践项目:** 
 - [FreeCodeCamp-Projects 完整代码](https://github.com/magicmai/FreeCodeCamp-Projects)
 
 - [Jay Skript and the Domsters - 虚拟乐队网站](https://github.com/magicmai/Jay-Skript-And-The-Domsters) - [【预览】](https://magicmai.github.io/Jay-Skript-And-The-Domsters/)【原生JavaScript】
